@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sksat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sksat.pub
+  * I am sksat (https://keybase.io/sksat) on keybase.
+  * I have a public key ASAMjl9YcdMtYk_nzITcIArAzZIGGIs7anYW2XKGg17mSgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01168650edb7627b744532029e3682bc840c9c1c4949bcf9a194d585275c25740bdc0a",
+      "host": "keybase.io",
+      "kid": "01200c8e5f5871d32d624fe7cc84dc200ac0cd9206188b3b6a7616d97286835ee64a0a",
+      "uid": "02e4b8e8efd77e426c394a43e1126d19",
+      "username": "sksat"
+    },
+    "merkle_root": {
+      "ctime": 1648827863,
+      "hash": "26c649e5d5eb0220d799592b4fa1d247cbb525e828075b12b0a39f9b939ffbbdae975724c54c3f72d8fd9eee8f4619da18d38574226f1bdc32fea2605120a766",
+      "hash_meta": "6457603883fe3ff4b2a82b937e60cd3a606bf96bde2cc54a189fd44a9f53add1",
+      "seqno": 22206684
+    },
+    "service": {
+      "entropy": "TfapBF8Xl9cOaDqqyln07j+n",
+      "hostname": "sksat.pub",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.3"
+  },
+  "ctime": 1648827973,
+  "expire_in": 504576000,
+  "prev": "ddc83db83adf147090ea513288f5e1bd5f18077cfe657dd32a4c92e84d5cdb82",
+  "seqno": 83,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDI5fWHHTLWJP58yE3CAKwM2SBhiLO2p2FtlyhoNe5koKp3BheWxvYWTESpcCU8Qg3cg9uDrfFHCQ6lEyiPXhvV8YB3z+ZX3TKkyS6E1c24LEIMUvi3/t9WAjevpyE9L7Uj8eN9OMQfPp4vdOjq7MItVgAgHCo3NpZ8RA+R9tkTlwxQstHj8+Msg91LbtKmtSbThzjT7c5jnOgk6IrqHR834oasbeOAZaewiSjyVI6cdyg/eRaFXNGK+GC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBfuqLBTYfLrgdxvWo7UtVgXlv9Jd6PPfsYngeD4jgM2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sksat
+
+==================================================================
